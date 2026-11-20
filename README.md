@@ -6,5 +6,5 @@ A Python program that manages a class list using lists and strings.
 |---------|----------|
 | Lama Alsumikhi | count_names |
 | Danah Alfallaj | search_name |
-| Maha Alsultan  | [Function] |
+| Maha Alsultan  | names_starting_with |
 | Latifa Alabdalwahid | sort_names |
