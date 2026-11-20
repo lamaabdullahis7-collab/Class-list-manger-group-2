@@ -30,7 +30,8 @@ def main():
     print("Number of names:", count_names(names))
     print("Search result:", search_name(names, "Danah"))
     print("Names starting with L:", names_starting_with(names, "L"))
-    ptint("Sorted names:", sort_names(names))
+    print("Sorted names:", sort_names(names))
+
     # Each student calls her function here, for example:
     # print("Number of names:", count_names(names))
 
