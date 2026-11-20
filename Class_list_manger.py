@@ -20,7 +20,9 @@ def names_starting_with(names, letter):
         if name.startswith(letter):
             result.append(name)
     return result
-
+#written by :latifa-446204298(task 3) 
+def sort_names(names):
+   return sorted(names) 
 
 def main():
     print("Welcome to the Class List Manager!")
@@ -33,5 +35,4 @@ def main():
 
 
 main()
-def sort_names(names):
-   return sorted(names) 
+
