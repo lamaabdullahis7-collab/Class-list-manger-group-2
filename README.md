@@ -7,4 +7,4 @@ A Python program that manages a class list using lists and strings.
 | Lama Alsumikhi | count_names |
 | Danah Alfallaj | search_name |
 | Maha Alsultan  | [Function] |
-| Latifa Alabdalwahid | [Function] |
+| Latifa Alabdalwahid | sort_names |
